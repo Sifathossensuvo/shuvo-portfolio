@@ -6,7 +6,7 @@ export default function Workspace() {
     <section className="py-40 px-8">
       <div className="max-w-[1040px] mx-auto grid md:grid-cols-2 gap-16 items-center">
         <Reveal>
-          <ImageFrame src={'/public/photo/coder.png'} label="Workspace photo" ratio="aspect-[4/3]" tint="green" className="border border-line" />
+          <ImageFrame src={'/photo/coder.png'} label="Workspace photo" ratio="aspect-[4/3]" tint="green" className="border border-line" />
         </Reveal>
         <div>
           <Reveal>
