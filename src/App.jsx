@@ -9,7 +9,7 @@ export default function App() {
       <ProtectionGuard />
       <Routes>
         <Route path="/" element={<Home />} />
-        {/* Not linked from any nav — reachable only via the button on the Projects section */}
+        
         <Route path="/all-projects" element={<AllProjects />} />
       </Routes>
     </>

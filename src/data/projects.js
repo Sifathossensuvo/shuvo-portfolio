@@ -16,15 +16,15 @@ export const projects = [
 
   {
     index: '02',
-    name: 'DevUndefined',
-    role: 'MADE FOR DEVELOPERS — A MODERN PROJECT SHOWCASE.',
-    why: 'Built to showcase my projects, technical skills, and creative approach through a fast, interactive, and visually immersive portfolio.',
+    name: 'My animated portfolio website',
+    role: 'Full development',
+    why: 'A cinematic, story-first personal site built with React, Vite, Tailwind CSS, Framer Motion, and a real 3D particle field (React Three Fiber / Three.js) in the hero.',
     mistake: 'Balancing smooth performance with rich animations.',
     lesson: 'Great products are refined through patience and attention to detail.',
-    stack: ['React', 'Node.js', 'MongoDB'],
-    image: '/photo/dev.png',
-    live: 'https://dev-hub-shuvo.netlify.app/',
-    code: 'https://github.com/Sifathossensuvo/',
+    stack: ['React', 'Node.js', 'MongoDB', 'FramerMotion'],
+    image: '/photo/errorshuvo.png',
+    live: 'https://error-shuvo.vercel.app/',
+    code: 'https://github.com/Sifathossensuvo/error-shuvo',
   },
 
 ]

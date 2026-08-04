@@ -2,6 +2,8 @@ import { useEffect, useState } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
 
 export default function ProtectionGuard() {
+
+
   const [open, setOpen] = useState(false)
   const [message, setMessage] = useState('')
 
@@ -26,6 +28,7 @@ export default function ProtectionGuard() {
           e.shiftKey &&
           ['I', 'i', 'J', 'j', 'C', 'c'].includes(key)) ||
         (e.ctrlKey && ['U', 'u', 'S', 's'].includes(key))
+
 
       if (blocked) {
         e.preventDefault()
