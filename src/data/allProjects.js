@@ -23,7 +23,7 @@ export const allProjects = [
     why: 'Built to showcase all developers projects, technical skills, and creative approach through a fast, interactive, and visually immersive portfolio.',
     mistake: 'Balancing smooth performance with rich animations.',
     lesson: 'Great products are refined through patience and attention to detail.',
-    stack: ['React', 'Node.js', 'MongoDB', 'FramerMotion'],
+    stack: ['React', 'Nodejs', 'MongoDB', 'FramerMotion'],
     image: '/photo/codespace.png',
     live: 'https://codespace-1-6xev.onrender.com/',
     code: 'https://github.com/Sifathossensuvo/codespace',
