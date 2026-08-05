@@ -33,7 +33,7 @@ export const allProjects = [
     blurb: 'A cinematic, story-first personal site built with React, Vite, Tailwind CSS, Framer Motion, and a real 3D particle field (React Three Fiber / Three.js) in the hero.',
     stack: ['JavaScript', 'React', 'Threejs', 'Nodejs', 'FramerMotion'],
     image: '/photo/errorshuvo.png',
-    live: '#',
+    live: 'https://error-shuvo.vercel.app/',
     code: 'https://github.com/Sifathossensuvo/error-shuvo',
   },
   {
