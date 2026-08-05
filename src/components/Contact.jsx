@@ -28,7 +28,7 @@ export default function Contact() {
               target="_blank"
   rel="noopener noreferrer"
               className="py-5 border-b border-line flex justify-between items-center text-lg hover:text-accent transition-colors"
-            >n
+            >
               GitHub <span className="text-sm text-softer">@Sifathossensuvo</span>
             </a>
             <a

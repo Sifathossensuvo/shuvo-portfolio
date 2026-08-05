@@ -37,6 +37,14 @@ export const allProjects = [
     code: 'https://github.com/Sifathossensuvo/error-shuvo',
   },
   {
+    name: 'Elecar Homepage',
+    blurb: 'A high-performance, fully dynamic, and ultra-responsive landing page for next-gen electric vehicles',
+    stack: ['React', 'Tailwind', 'FramerMotion', 'Vite'],
+    image: '/photo/elecar.png',
+    live: 'https://elecar-homepage.vercel.app/',
+    code: 'https://github.com/Sifathossensuvo/elecar-homepage/',
+  },
+  {
     name: 'Novaluna homepage',
     blurb: 'Built to showcase a agency projects, technical skills, and creative approach through a fast, interactive, and visually immersive portfolio',
     stack: ['React', 'Tailwind', 'FramerMotion'],
